@@ -1,5 +1,5 @@
-# bm-website
+# Personal Website
 
-Quick start Compass with Mixture, Compass is an open-source CSS Authoring Framework.
+Brett Marshall's Personal Website
 
 Auto commited via [Mixture](http://mixture.io)

@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.md",
+				"*.sublime-project",
+				"*.sublime-workspace",
+				"*.ico",
+				".githubsettings",
+				"package.png"
+			],
+			"folder_exclude_patterns":
+			[
+				"lang",
+				"doc",
+				"nbproject",
+				"converted-html",
+				".sass-cache",
+				"compass"
+			],
+			"path": "/Users/brettmarshall/Dropbox/bm-website"
+		}		
+	]
+}

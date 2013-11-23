@@ -1,0 +1,977 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"feed",
+				"feed_item"
+			],
+			[
+				"bdrs",
+				"bdrs	border-radius"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"lt",
+				"ltBlue"
+			],
+			[
+				"cta",
+				"CTA"
+			],
+			[
+				"phon",
+				"horPhone"
+			],
+			[
+				"def",
+				"defaultLineHeight"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"defa",
+				"defaultSize"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"header",
+				"headerFont"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"mock-",
+				"menu-mock-drafts"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"default",
+				"defaultLineHeight"
+			],
+			[
+				"h1",
+				"h1Font"
+			],
+			[
+				"defau",
+				"defaultPixelBase"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mixture.json",
+			"settings":
+			{
+				"buffer_size": 753,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".githubsettings",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/styles/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/styles/sass/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"plu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"update",
+				"Gist: Update File"
+			],
+			[
+				"open gist",
+				"Gist: Open Gist"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"public",
+				"Gist: Create Public Gist"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippets",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"server",
+				"SFTP: Browse Server…"
+			],
+			[
+				"brose",
+				"SFTP: Browse Server…"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"markdon",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"two",
+				"Snippet: two-column-grid"
+			],
+			[
+				"two-co",
+				"Snippet: two-column-grid"
+			],
+			[
+				"testing",
+				"Snippet: Testing default blockquote"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Bootstrap breadcrumb"
+			],
+			[
+				"column",
+				"Snippet: Bootstrap basic two column grid"
+			],
+			[
+				"nav",
+				"Snippet: Bootstrap navigation bar"
+			],
+			[
+				"vint",
+				"Snippet: Bootstrap tabbable navigation tabs"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"map",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"css",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brettmarshall/Dropbox/bm-website/mixture.json",
+		"/Users/brettmarshall/Dropbox/bm-website/build/mixture.json",
+		"/Users/brettmarshall/Dropbox/bm-website/collections",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/includes/footer.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/includes/head.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/includes/navigation.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/includes/sidebar.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/layouts/blog.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/layouts/home.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/layouts/post.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/layouts/projects.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/index.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/model.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/models/_global.json",
+		"/Users/brettmarshall/Dropbox/bm-website/templates/projects.liquid",
+		"/Users/brettmarshall/Dropbox/bm-website/models/project.json",
+		"/Users/brettmarshall/Desktop/mixture-testing/templates/layouts/blog.liquid",
+		"/Users/brettmarshall/Desktop/mixture-testing/templates/layouts/layout.liquid",
+		"/Users/brettmarshall/Desktop/mixture-testing/public/js/main.js",
+		"/Users/brettmarshall/Desktop/mixture-testing/collections/blog/test-post.md",
+		"/Users/brettmarshall/Desktop/mixture-testing/templates/index.liquid",
+		"/Users/brettmarshall/Desktop/mixture-testing/templates/includes/navigation.liquid",
+		"/Users/brettmarshall/Desktop/mixture-testing/mixture.json",
+		"/Applications/MAMP/htdocs/facebook/css/main.less",
+		"/Applications/MAMP/htdocs/facebook/index.html",
+		"/Applications/MAMP/htdocs/facebook/js/main.js",
+		"/Applications/MAMP/htdocs/ajax-testing/mixture.json",
+		"/Applications/MAMP/htdocs/ajax-testing/index.html",
+		"/Applications/MAMP/htdocs/mix_demo/wp-content/themes/boilerplate/assets/sass/main.scss",
+		"/Applications/MAMP/htdocs/mix_demo/mixture.json",
+		"/Users/brettmarshall/Desktop/mix_demo/mixture.json",
+		"/Applications/MAMP/htdocs/mix_demo/compass/config.rb",
+		"/Users/brettmarshall/Downloads/icons57386/style.css",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_header.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_global.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_buttons.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/css/less/bootstrap.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/main.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_base.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/css/css/main.min.css",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_footer.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_forum.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/lib/scripts.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_icons.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_modules.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_post.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_profile.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_sidebar.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_typography.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/searchform.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/css/less/mixins.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_sprites.less",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/js/main.js",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/css/main.min.css",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/footer.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/content-blog.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/index.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/header-top-navbar.php",
+		"/Applications/MAMP/htdocs/football_blog/mixture.json",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_typography.scss",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/less/_icons.scss",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/sass/app.scss",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/css/main.less",
+		"/Users/brettmarshall/Documents/web_projects/sideline-blitz.sublime-project",
+		"/Users/brettmarshall/Downloads/icons28854/style.css",
+		"/Users/brettmarshall/Downloads/icomoon54842/style.css",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/search.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/base.php",
+		"/Applications/MAMP/htdocs/football_blog/sftp-config.json",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/content-home.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/head.php",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/JavaScript/simple-scroll.sublime-snippet",
+		"/Users/brettmarshall/.Trash/wp_site/wp-content/themes/my_theme/index.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-includes/theme-compat/header.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/js/main.mix.js",
+		"/Users/brettmarshall/Desktop/main.js",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/lib/custom.php",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/sideline-blitz",
+		"/Users/brettmarshall/Desktop/wp_site/wp-content/themes/my_theme/assets/css/main.less",
+		"/Users/brettmarshall/Desktop/wp_site/wp-content/themes/my_theme/assets/css/main.css",
+		"/Users/brettmarshall/Desktop/wp_site/wp-content/themes/my_theme/assets/js/plugins.js",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/Twitter Bootstrap Snippets/Base CSS/blockquote.sublime-snippet",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/testing.xml",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/three-column-grid.sublime-snippet",
+		"/Applications/MAMP/htdocs/sandbox/ajax/sample.json",
+		"/Applications/MAMP/htdocs/sandbox/ajax/main.js",
+		"/Applications/MAMP/htdocs/sandbox/ajax/page.html",
+		"/Applications/MAMP/htdocs/sandbox/ajax/index.php",
+		"/Applications/MAMP/htdocs/sandbox/ajax/main.css",
+		"/Applications/MAMP/htdocs/sandbox/ajax/main.less",
+		"/Applications/MAMP/htdocs/sandbox/ajax/coolthing/cool.js",
+		"/Applications/MAMP/htdocs/sandbox/ajax/templates/content-page.php",
+		"/Applications/MAMP/htdocs/sandbox/ajax/anothersample.json",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/two-column-grid.sublime-snippet",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/testing.sublime-snippet",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/brettmarshall/Library/Application Support/Sublime Text 2/Packages/User/two-column-grid",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/assets/js/main.js",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/templates/content-projects.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/base.php",
+		"/Applications/MAMP/htdocs/sandbox/ajax/colors.xml",
+		"/Applications/MAMP/htdocs/sandbox/ajax/jquery.js",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/assets/js/plugins.js",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/templates/content.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/templates/head.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/lib/scripts.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/templates/content-single-projects.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/assets/css/main.less",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/single-projects.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/templates/content-single.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/ajax.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/templates/content-project.php",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-content/themes/brett_marshall/templates/content-single-project.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/doc/plugins.md",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/css/my_less/main.less",
+		"/Applications/MAMP/htdocs/brett_marshall_new/wp-config.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/nfl-logos.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/members/single/member-header.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/activity/entry.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/assets/js/plugins.js",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/sidebar.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/content-single.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/lib/widgets.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/templates/content_ads.php",
+		"/Applications/MAMP/htdocs/football_blog/wp-content/themes/buddypress_blitz/style.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots",
+			"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots/members",
+			"/Applications/MAMP/htdocs/football_blog/wp-content/themes/roots"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"commited",
+			"audo",
+			"public",
+			"container",
+			"picture",
+			"feed_item",
+			"message",
+			"name",
+			"description",
+			"picture",
+			"value.picture",
+			"description",
+			"$('#container')",
+			"wp-content/themes/boilerplate/",
+			"pic-menu",
+			"css",
+			"icons",
+			"../css/less",
+			"import",
+			"headerFont",
+			"ubuntu",
+			"forums",
+			"ubuntu",
+			"@",
+			"ubuntu",
+			"headerFont",
+			"sans",
+			"ubuntu",
+			"@",
+			"@headingFont",
+			"@arvo",
+			"defaultFont",
+			"headerFont",
+			"headingFont",
+			"arvo",
+			"Arvo",
+			"magni",
+			"@",
+			"search",
+			"pic-",
+			"top",
+			".box",
+			"#slider li, #slider li img",
+			"li",
+			"fonts/",
+			"auto",
+			"footer",
+			".sep",
+			"@horPhone",
+			"brand",
+			".banner",
+			"horPhone",
+			".container",
+			"section",
+			"the",
+			"something",
+			"div",
+			"content",
+			"span4",
+			"span2",
+			"class",
+			"div",
+			">\n",
+			"<div class=\"row-fluid\">\n	<div class=\"span4\">content</div>\n	<div class=\"span6\">content</div>\n	<div class=\"span2\">content</div>\n</div>",
+			"span6",
+			"row",
+			".project-snapshot",
+			"Author Archives",
+			".recent-blog-posts",
+			"post-meta",
+			"social",
+			"blue",
+			"menu-forums",
+			"recent-blog-posts",
+			"font-size",
+			"defaultSize",
+			"rem",
+			".blog .recent-blog-posts",
+			"blog",
+			".form-search input[type=\"text\"]",
+			"search",
+			"activity-meta",
+			"delete-activity",
+			"activity-meta",
+			"item-header-avatar",
+			"page",
+			"headerimg",
+			"#eee",
+			"post-meta",
+			"sidebar",
+			"responses",
+			"c",
+			"14px",
+			"em",
+			"mam",
+			".button",
+			"em",
+			"myModal",
+			"transition",
+			"tranition",
+			"nav",
+			"width: 11",
+			"@media(min-width:1200px",
+			"min-width",
+			"min-width		",
+			"min-width",
+			"blog-nav-hover",
+			"blog-hover"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mixture.json",
+					"settings":
+					{
+						"buffer_size": 753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".githubsettings",
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/styles/sass/main.scss",
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/styles/sass/_layout.scss",
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 106.0
+	},
+	"output.sftp":
+	{
+		"height": 106.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"templates/index.liquid"
+			],
+			[
+				"main.js",
+				"assets/js/main.js"
+			],
+			[
+				"head",
+				"templates/header-top-navbar.php"
+			],
+			[
+				"icons",
+				"assets/less/_icons.less"
+			],
+			[
+				"header",
+				"assets/less/_header.less"
+			],
+			[
+				"_mod",
+				"assets/less/_modules.less"
+			],
+			[
+				"_modl",
+				"assets/less/_modules.less"
+			],
+			[
+				"modl",
+				"assets/css/less/modals.less"
+			],
+			[
+				"_base.less",
+				"assets/less/_base.less"
+			],
+			[
+				"mod",
+				"assets/less/_modules.less"
+			],
+			[
+				"module",
+				"assets/less/_modules.less"
+			],
+			[
+				"_profile",
+				"assets/less/_profile.less"
+			],
+			[
+				"global",
+				"assets/less/_global.less"
+			],
+			[
+				"less",
+				"assets/css/main.less"
+			],
+			[
+				"search",
+				"templates/searchform.php"
+			],
+			[
+				"footer",
+				"templates/footer.php"
+			],
+			[
+				"lib/scripts",
+				"wp-content/themes/roots/lib/scripts.php"
+			],
+			[
+				"main.less",
+				"wp-content/themes/roots/assets/css/main.less"
+			],
+			[
+				"main.min",
+				"wp-content/themes/roots/assets/css/main.min.css"
+			],
+			[
+				"/templates/head",
+				"wp-content/themes/roots/templates/head.php"
+			],
+			[
+				"main",
+				"wp-content/themes/roots/assets/css/main.less"
+			],
+			[
+				"templates/foot",
+				"wp-content/themes/roots/templates/footer.php"
+			],
+			[
+				"content-blog",
+				"wp-content/themes/roots/templates/content-blog.php"
+			],
+			[
+				"templates/head",
+				"wp-content/themes/roots/templates/head.php"
+			],
+			[
+				"base",
+				"wp-content/themes/roots/base.php"
+			],
+			[
+				"templates/",
+				"wp-content/themes/roots/templates/content-blog.php"
+			],
+			[
+				"roots/head",
+				"wp-content/themes/roots/templates/header-top-navbar.php"
+			],
+			[
+				"roots/index",
+				"wp-content/themes/roots/index.php"
+			],
+			[
+				".less",
+				"wp-content/themes/roots/assets/css/main.less"
+			],
+			[
+				"roots/header",
+				"wp-content/themes/roots/templates/header-top-navbar.php"
+			],
+			[
+				"roots/home",
+				"wp-content/themes/roots/templates/content-home.php"
+			],
+			[
+				"roots/scripts",
+				"wp-content/themes/roots/lib/scripts.php"
+			],
+			[
+				"roots/custom.php",
+				"wp-content/themes/roots/lib/custom.php"
+			],
+			[
+				"plugins.js",
+				"wp-content/themes/my_theme/assets/js/plugins.js"
+			],
+			[
+				"page",
+				"page.html"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"pag",
+				"page.html"
+			],
+			[
+				"base.php",
+				"base.php"
+			],
+			[
+				"scripts",
+				"lib/scripts.php"
+			],
+			[
+				"social",
+				"roots/templates/social.php"
+			],
+			[
+				"blog",
+				"roots/templates/content-blog.php"
+			],
+			[
+				"home",
+				"roots/templates/content-home.php"
+			],
+			[
+				"plugins",
+				"roots/assets/js/plugins.js"
+			],
+			[
+				"custom",
+				"roots/lib/custom.php"
+			],
+			[
+				"script",
+				"roots/lib/scripts.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/brettmarshall/Dropbox/football_blog/sidelineblitz.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true
+}
